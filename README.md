@@ -1,5 +1,12 @@
 # 📝 Deploying Active Directory Using Powershell
 
+> [!CAUTION]
+> This repo is an extension this repo here: https://github.com/AntonioTanco/ActiveDirectoryLab/tree/main
+>
+> This repo aims to do the same things found in that repo entirely in powershell. This isn't meant to serve as a guide but more of a showcasing of my skills in powershell.
+>
+> Never run any code without an understanding of what the code is modifying in any environment that isn't solely meant for testing purposes only.
+
 <h2>Project Overview</h2>
 <p>Used powershell to completely automate the install/configuration of Window Server roles and features such as: Active Directory Domain Services, RSAT (NAT), DNS and DHCP. 
 
