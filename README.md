@@ -194,7 +194,7 @@ Get-DhcpServerv4OptionValue -ScopeId 172.16.0.1
 
 <p>This script is responsible for installing and configurating ADDS on the Windows server. This script creates a new Active Directory forest (ad.pshomelab.com) programmatically and restarts the server to apply all the changes made.</p>
 
- <b>This will be the forth script you will run in order to achieve the same configuration found in this repo @ https://github.com/AntonioTanco/ActiveDirectoryLab/tree/main</b>
+ <b>This will be the fourth script you will run in order to achieve the same configuration found in this repo @ https://github.com/AntonioTanco/ActiveDirectoryLab/tree/main</b>
 
 ```
 ﻿#Installing and Configurating Active Directory Domain Services completely via Powershell
